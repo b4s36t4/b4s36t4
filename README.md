@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm mahesh, a professional frontend developer working with react eco-system.
+
+Would love to connnect with people who have ideas to build cool products with react 😇.
+
+
+My Expereinces:
+
+# Languages
+
+* Typescript
+* Javascript
+* Python
+* Rust (learning)
+
+# Frontend Frameworks
+* (react)[https://github.com/facebook/react]
+* (next.js)[https://github.com/vercel/next.js]
+
+# Frontend Tooling
+
+* (webpack)[https://github.com/webpack/webpack]
+* (vite)[https://github.com/vitejs/vite]
+* (swc)[https://github.com/swc-project/swc]
+
+# Frameworks
+
+* fastify
+* nestjs
+* FastAPI
+* Flask
+
+# Android
+
+* Kotlin (basic)
+* React Native
+
