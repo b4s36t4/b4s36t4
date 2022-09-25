@@ -30,21 +30,21 @@ My Expereinces:
 * Rust (learning)
 
 # Frontend Frameworks
-* (react)[https://github.com/facebook/react]
-* (next.js)[https://github.com/vercel/next.js]
+* [react](https://github.com/facebook/react)
+* [next.js](https://github.com/vercel/next.js)
 
 # Frontend Tooling
 
-* (webpack)[https://github.com/webpack/webpack]
-* (vite)[https://github.com/vitejs/vite]
-* (swc)[https://github.com/swc-project/swc]
+* [webpack](https://github.com/webpack/webpack)
+* [vite](https://github.com/vitejs/vite)
+* [swc](https://github.com/swc-project/swc)
 
 # Frameworks
 
-* fastify
-* nestjs
-* FastAPI
-* Flask
+* [fastify](https://github.com/fastify/fastify)
+* [nestjs](https://github.com/nestjs/nest)
+* [FastAPI](https://github.com/tiangolo/fastapi)
+* [Flask](#)
 
 # Android
 
