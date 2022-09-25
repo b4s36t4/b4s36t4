@@ -19,8 +19,7 @@ I'm mahesh, a professional frontend developer working with react eco-system.
 
 Would love to connnect with people who have ideas to build cool products with react 😇.
 
-
-My Expereinces:
+My Portfolio
 
 # Languages
 
