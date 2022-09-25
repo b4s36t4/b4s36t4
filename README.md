@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm mahesh, a professional frontend developer working with react eco-system.
 
+Passionate web3 dapp and smart-contract developer 🥹 still lots to learn. 
+
 Would love to connnect with people who have ideas to build cool products with react 😇.
 
 My Portfolio
@@ -64,6 +66,14 @@ My Portfolio
 * [Mongoose](https://github.com/Automattic/mongoose)
 * [TypeORM](https://github.com/typeorm/typeorm)
 * [papr](https://github.com/plexinc/papr)
+
+# Web3
+
+* Ethereum
+* Polygon
+* Celo
+* Stacks
+* Flow
 
 # My Social Profile
 
