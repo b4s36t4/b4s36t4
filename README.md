@@ -19,7 +19,12 @@ I'm mahesh, a professional frontend developer working with react eco-system.
 
 Passionate web3 dapp and smart-contract developer 🥹 still lots to learn. 
 
-Would love to connnect with people who have ideas to build cool products with react 😇.
+Would love to connnect with people who have ideas to build cool products with react or web3 related 🔥.
+
+## Say Hi!
+
+* [Linkedin](https://linkedin.com/in/maheshvagicherla)
+* [Twitter](https://twitter.com/b4s36t4)
 
 My Portfolio
 
@@ -75,8 +80,4 @@ My Portfolio
 * Stacks
 * Flow
 
-# My Social Profile
-
-* [Linkedin](https://linkedin.com/in/maheshvagicherla)
-* [Twitter](https://twitter.com/b4s36t4)
 
