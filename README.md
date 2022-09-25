@@ -31,6 +31,7 @@ My Portfolio
 # Frontend Frameworks
 * [react](https://github.com/facebook/react)
 * [next.js](https://github.com/vercel/next.js)
+* [remix](https://github.com/remix-run/remix)
 
 # Frontend Tooling
 
@@ -49,4 +50,23 @@ My Portfolio
 
 * Kotlin (basic)
 * React Native
+
+# Datebases
+
+* MySQL
+* PostgresQL
+* MongoDB
+* DynamoDB (partiQL)
+
+# ORMs
+
+* [Prisma](https://github.com/prisma/prisma)
+* [Mongoose](https://github.com/Automattic/mongoose)
+* [TypeORM](https://github.com/typeorm/typeorm)
+* [papr](https://github.com/plexinc/papr)
+
+# My Social Profile
+
+* [Linkedin](https://linkedin.com/in/maheshvagicherla)
+* [Twitter](https://twitter.com/b4s36t4)
 
