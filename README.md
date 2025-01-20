@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm mahesh, an unfortunate developer who is human
+I'm mahesh, an unfortunate developer who is human.
 
 ## Let's connect
 
